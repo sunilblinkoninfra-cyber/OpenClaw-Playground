@@ -1,5 +1,7 @@
 # Openclaw Platform
 
+![CI](https://github.com/sunilblinkoninfra-cyber/OpenClaw-Playground/actions/workflows/ci.yml/badge.svg)
+
 **Zero Installation Friction Cloud IDE with AI Agent Integration**
 
 A SaaS platform providing instant, isolated, cloud-based development environments with integrated AI capabilities. Users get a fully configured environment in seconds—no setup required.
